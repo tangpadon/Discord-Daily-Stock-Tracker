@@ -3,6 +3,8 @@
     {"ticker": "SOFI", "avg_price": 15.70, "quantity": 2},
     {"ticker": "RBRK", "avg_price": 45.40, "quantity": 0.6706996},
     {"ticker": "NVDA", "avg_price": 176.99, "quantity": 0.1635630},
-    {"ticker": "BRK-B", "avg_price": 456.64, "quantity": 0.3134149}
+    {"ticker": "BRK-B", "avg_price": 456.64, "quantity": 0.3134149},
+    {"ticker": "ANET", "avg_price": 104.12, "quantity": 0.1057599},
+    {"ticker": "ETN", "avg_price": 378.88, "quantity": 0.0405933}
   ]
 }
