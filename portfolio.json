@@ -5,6 +5,7 @@
     {"ticker": "NVDA", "avg_price": 176.99, "quantity": 0.1635630},
     {"ticker": "BRK-B", "avg_price": 456.64, "quantity": 0.3134149},
     {"ticker": "ANET", "avg_price": 140.12, "quantity": 0.1057599},
-    {"ticker": "ETN", "avg_price": 378.88, "quantity": 0.0405933}
+    {"ticker": "ETN", "avg_price": 378.88, "quantity": 0.0405933},
+{"ticker": "MSFT", "avg_price": 425.064, "quantity": 0.0469812}
   ]
 }
