@@ -27,4 +27,7 @@ jobs:
       - name: Run Portfolio Bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python portfolio.py
+          PORTFOLIO_GIST_URL: ${{ secrets.PORTFOLIO_GIST_URL }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: python main.py

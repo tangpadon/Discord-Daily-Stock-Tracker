@@ -1,0 +1,7 @@
+{
+  "portfolio": [
+    {"ticker": "AAPL", "avg_price": 175.50, "quantity": 10},
+    {"ticker": "NVDA", "avg_price": 120.00, "quantity": 15},
+    {"ticker": "MSFT", "avg_price": 400.00, "quantity": 5}
+  ]
+}
